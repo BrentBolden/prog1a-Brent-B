@@ -1,8 +1,7 @@
 # prog1a-Brent-B
-Program Input:
+Program I/O:
 Enter input filename:inputfile.txt
 Enter output file:outfile.txt
-Program Output:
 Number of cars: 21
 
 Make:        Ford
